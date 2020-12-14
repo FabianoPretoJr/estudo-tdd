@@ -1,0 +1,9 @@
+C:\Users\FOEU\My Private Documents\Projetos\estudo-tdd\PaymentContext\PaymentContext.Shared\bin\Debug\netstandard2.0\PaymentContext.Shared.deps.json
+C:\Users\FOEU\My Private Documents\Projetos\estudo-tdd\PaymentContext\PaymentContext.Shared\bin\Debug\netstandard2.0\PaymentContext.Shared.dll
+C:\Users\FOEU\My Private Documents\Projetos\estudo-tdd\PaymentContext\PaymentContext.Shared\bin\Debug\netstandard2.0\PaymentContext.Shared.pdb
+C:\Users\FOEU\My Private Documents\Projetos\estudo-tdd\PaymentContext\PaymentContext.Shared\obj\Debug\netstandard2.0\PaymentContext.Shared.csprojAssemblyReference.cache
+C:\Users\FOEU\My Private Documents\Projetos\estudo-tdd\PaymentContext\PaymentContext.Shared\obj\Debug\netstandard2.0\PaymentContext.Shared.AssemblyInfoInputs.cache
+C:\Users\FOEU\My Private Documents\Projetos\estudo-tdd\PaymentContext\PaymentContext.Shared\obj\Debug\netstandard2.0\PaymentContext.Shared.AssemblyInfo.cs
+C:\Users\FOEU\My Private Documents\Projetos\estudo-tdd\PaymentContext\PaymentContext.Shared\obj\Debug\netstandard2.0\PaymentContext.Shared.csproj.CoreCompileInputs.cache
+C:\Users\FOEU\My Private Documents\Projetos\estudo-tdd\PaymentContext\PaymentContext.Shared\obj\Debug\netstandard2.0\PaymentContext.Shared.dll
+C:\Users\FOEU\My Private Documents\Projetos\estudo-tdd\PaymentContext\PaymentContext.Shared\obj\Debug\netstandard2.0\PaymentContext.Shared.pdb
