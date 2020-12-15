@@ -1,0 +1,9 @@
+C:\Users\FOEU\My Private Documents\Projetos\estudo-tdd\Parte-2\Store\Store.Domain\bin\Debug\netstandard2.0\Store.Domain.deps.json
+C:\Users\FOEU\My Private Documents\Projetos\estudo-tdd\Parte-2\Store\Store.Domain\bin\Debug\netstandard2.0\Store.Domain.dll
+C:\Users\FOEU\My Private Documents\Projetos\estudo-tdd\Parte-2\Store\Store.Domain\bin\Debug\netstandard2.0\Store.Domain.pdb
+C:\Users\FOEU\My Private Documents\Projetos\estudo-tdd\Parte-2\Store\Store.Domain\obj\Debug\netstandard2.0\Store.Domain.csprojAssemblyReference.cache
+C:\Users\FOEU\My Private Documents\Projetos\estudo-tdd\Parte-2\Store\Store.Domain\obj\Debug\netstandard2.0\Store.Domain.AssemblyInfoInputs.cache
+C:\Users\FOEU\My Private Documents\Projetos\estudo-tdd\Parte-2\Store\Store.Domain\obj\Debug\netstandard2.0\Store.Domain.AssemblyInfo.cs
+C:\Users\FOEU\My Private Documents\Projetos\estudo-tdd\Parte-2\Store\Store.Domain\obj\Debug\netstandard2.0\Store.Domain.csproj.CoreCompileInputs.cache
+C:\Users\FOEU\My Private Documents\Projetos\estudo-tdd\Parte-2\Store\Store.Domain\obj\Debug\netstandard2.0\Store.Domain.dll
+C:\Users\FOEU\My Private Documents\Projetos\estudo-tdd\Parte-2\Store\Store.Domain\obj\Debug\netstandard2.0\Store.Domain.pdb

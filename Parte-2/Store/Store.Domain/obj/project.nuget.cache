@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "36djgBX5ySsfDLngnM8EV2U/lMQOQ4kT5wo1skUIr50o9q+kScgHw14AKXSfg9hkpQSh0dEHug04sIxiZHurcw==",
+  "dgSpecHash": "SeD37O3QnX10I4Uv2SfpypgtAWCjtWddHF+1nemaWdHS5M694mWUOZChT0OiMNREdKvLCYUMt5pqvAeP/YmHUg==",
   "success": true,
   "projectFilePath": "C:\\Users\\FOEU\\My Private Documents\\Projetos\\estudo-tdd\\Parte-2\\Store\\Store.Domain\\Store.Domain.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\FOEU\\.nuget\\packages\\flunt\\1.0.5\\flunt.1.0.5.nupkg.sha512",
     "C:\\Users\\FOEU\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\FOEU\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
   ],
