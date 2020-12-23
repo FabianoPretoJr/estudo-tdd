@@ -36,7 +36,7 @@ namespace Store.Domain.Handlers
             // Fail Fast Validation
             command.Validate();
             if(command.Invalid)
-                return new GenericCommandResult(false, "Pedido inválido", command.Notifications);
+                return new GenericCommandResult(false, "Pedido inválido", null);
 
             // 1. Recupera o cliente
             var customer = _customerRepository.Get(command.Customer);
